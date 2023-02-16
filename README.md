@@ -11,4 +11,5 @@ Student Info
 
 * Student Name: bùi đắc minh
 * Student ID: bi11-164
+* Student Practical Labwork Group: Group 5
 
